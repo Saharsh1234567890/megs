@@ -1,0 +1,32 @@
+[
+    {
+      "question": "What is the value of x in the equation 2x + 5 = 15?",
+      "options": ["5", "7.5", "10", "20"],
+      "answer": "5",
+      "explanation": "Subtract 5 from both sides and divide by 2."
+    },
+    {
+      "question": "Solve for x: 3x - 7 = 11.",
+      "options": ["6", "7", "8", "9"],
+      "answer": "6",
+      "explanation": "Add 7 to both sides and divide by 3."
+    },
+    {
+      "question": "What is the solution of the equation x^2 - 4x + 4 = 0?",
+      "options": ["2", "4", "-2", "-4"],
+      "answer": "2",
+      "explanation": "This is a perfect square trinomial: (x - 2)^2 = 0."
+    },
+    {
+      "question": "If 3x + 7 = 22, what is the value of x?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "5",
+      "explanation": "Subtract 7 from both sides and divide by 3."
+    },
+    {
+      "question": "What is the result of 2(x + 3) - 4x = 10?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "2",
+      "explanation": "Distribute 2 to x + 3, then subtract 4x and solve."
+    }
+  ]  
